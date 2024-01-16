@@ -14,4 +14,4 @@ Within the vast ocean of algebraic geometry, my current research interest lies i
 These abelian fourfolds are fun because they are the first family of examples of non-PEL type abelian varieties. Special cases of them, say, those with complex multiplication, gives fascinating applications in the study of K3 surfaces. Generalization of such non-PEL constructions are also exhilarating in a way, since they are related to K3 surfaces with real multiplications and hint at unknown (?) arithmetic properties of quaternion orders.
 
 ### My CV:
-You can download a copy of my a <a href="https://github.com/GilliesK/hydeout/edit/master/_posts/2012-02-07-example-content.md#:~:text=Resume_AG__Dec_2023_Update_" target="_blank">CV</a> here.
+You can download a copy of my a <a href="https://github.com/GilliesK/hydeout/blob/master/Resume_AG__Dec_2023_Update_%20(4).pdf" target="_blank">CV</a> here.
