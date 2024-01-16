@@ -3,7 +3,6 @@ layout: post
 title: About Myself
 ---
 
-## About myself
 I am a Ph.D. in mathematics specialized in algebraic geometry and arithmetics. I obtained my Ph.D. degree in 2019 under the supervision of Prof. Brendan Hassett.
 
 ### What I study:
