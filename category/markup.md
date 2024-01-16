@@ -6,7 +6,16 @@ title: Contact
 ## Email
 Try one of these two email addresses (replace at with @ and dot with .):
 
- *yuwei_zhu at alumni dot brown dot edu
- *yuwei dot a dot g at gmail dot com
+ ## Ordered -- Unordered -- Ordered
+
+1. ordered item
+2. ordered item
+  * **unordered**
+  * **unordered**
+    1. ordered item
+    2. ordered item
+3. ordered item
+4. ordered item
+5. 
 ## Github Page
 You can also find me on Github — I'm still in the learning process of making the site work.
