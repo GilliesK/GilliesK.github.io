@@ -3,7 +3,7 @@ layout: post
 title: About Myself
 ---
 
-I am a Ph.D. in mathematics specialized in algebraic geometry and arithmetics. I obtained my Ph.D. degree in 2019 under the supervision of Prof. Brendan Hassett.
+I am a physics Ph.D. student at Brown University.
 
 ### What I study:
 In a broader sense, I am interested in representation theory and things matrix-y.
