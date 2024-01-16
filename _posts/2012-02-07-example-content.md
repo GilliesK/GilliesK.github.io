@@ -3,8 +3,7 @@ layout: post
 title: About Myself
 ---
 
-I am a physics Ph.D. student at Brown University.
-
+I am a physics Ph.D. student at Brown University. I currently work with <a href="https://sites.brown.edu/ling-lab/">Prof. Sean Ling and Prof. Michael Kosterlitz </a>.
 ### What I study:
 T.B.D
 ### My CV:
