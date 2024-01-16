@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 ## Slides
-<a href="https://drive.google.com/drive/folders/1-5qu8AkZY0sR7BtTAhqoULX96fvTsUue">March 21st, 2023</a> (RG treatment of the 1D LR-Ising model with
+<a href="./Reading_Presentation__March_21st__2023%20(4)%20(1)%20(1).pdf">March 21st, 2023</a> (RG treatment of the 1D LR-Ising model with
 random fields)
 
 ## Undergrad Research
