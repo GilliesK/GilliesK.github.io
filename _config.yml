@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Welcome!
 tagline:          'My Homepage'
 description:      'This is the academic homepage of Abdulai Gassama'
-url:              https://github.com/GilliesK/
+url:              https://github.com/Gillies/
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
