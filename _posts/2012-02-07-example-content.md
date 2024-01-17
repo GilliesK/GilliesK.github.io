@@ -7,4 +7,4 @@ I am a physics Ph.D. student at Brown University. I currently work with <a href=
 ### What I study:
 I study frustrated materials with possible applications to superconductors.  My range of interest includes topological data analysis, superconductor thin films, and utilizing new mathematical technologies.  
 ### My CV:
-You can download a copy of my <a href="./Resume_AG__Jan_2024_Update_%20(2).pdf">CV</a> here.
+You can download a copy of my <a href="./Resume_2024.pdf">CV</a> here.
