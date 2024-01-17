@@ -5,6 +5,8 @@ sidebar_link: true
 ---
 
 ## Slides
+<a href="./RG_Review.pdf">Review of RG Theory</a>
+
 <a href="./Reading_Presentation__March_21st__2023%20(4)%20(1)%20(1).pdf">RG treatment of the 1D LR-Ising model with
 random fields</a> 
 
