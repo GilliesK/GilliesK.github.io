@@ -5,6 +5,7 @@ title: Contact
 
 ## Email
 Replace 'at' with @ and 'dot' with . :
+
 **abdulai_gassama at brown dot edu**
 
 ## Github Page
