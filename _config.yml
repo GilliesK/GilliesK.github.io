@@ -15,8 +15,7 @@ baseurl:          '/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Abdulai Gassama'
 
 paginate:         5
 # paginate_path:    '/page:num'
