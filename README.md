@@ -1,1 +1,1 @@
-Using hydeout format to create a website.
+personal website uploaded with hydeout theme
