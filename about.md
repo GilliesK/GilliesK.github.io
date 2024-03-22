@@ -10,6 +10,8 @@ sidebar_link: true
 <a href="./Reading_Presentation__March_21st__2023%20(4)%20(1)%20(1).pdf">RG treatment of the 1D LR-Ising model with
 random fields</a> 
 
+## Monographs
+<a href="./trial_project.pdf">Positive Mass Theorem: Undergraduate Friendly Monograph</a> 
 ## Undergrad Research
 
 <b>Energy Functional of Lipids</b>: Worked under Prof. Ranjan Mukhopadhyay (Summer 2021- Spring 2022). Researched a
