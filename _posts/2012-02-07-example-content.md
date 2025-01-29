@@ -12,6 +12,7 @@ My research focuses on advancing our understanding of spin glass theory through 
 *Deriving rigorous mathematical frameworks to describe emergent behaviors in spin glass systems
 
 A significant aspect of my research involves exploring the deep connections between spin glass theory and probability theory, especially in areas such as random matrix theory and stochastic processes. This theoretical work extends naturally into machine learning applications, where I investigate how spin glass phenomena can inform the development of more robust and efficient neural network architectures.
-My interdisciplinary approach combines tools from statistical physics, computational mathematics, and theoretical computer science to bridge the gap between fundamental physical principles and their practical applications in advanced computing systems
+My interdisciplinary approach combines tools from statistical physics, computational mathematics, and theoretical computer science to bridge the gap between fundamental physical principles and their practical applications in advanced computing systems.
+
 ### My Resume:
 You can download a copy of my <a href="./Resume_2024.pdf"> resume</a> here.
