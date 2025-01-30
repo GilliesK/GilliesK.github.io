@@ -12,7 +12,7 @@ My research focuses on advancing our understanding of spin glass theory (and gen
 I am interested in exploring advanced theoretical frameworks (e.g. in real analysis, probability) and their utility in understanding physical mechanisms, especially in areas such as random matrix theory and stochastic processes; additionally in machine learning applications, where investigating spin glass phenomena could inform the development of more robust and efficient neural network architectures.
 
 Mentors:
-<a href=" ./https://scholar.harvard.edu/aalaee>Aghil Alaee Khangha</a> (Harvard CMSA member; faculty at Clark University)
+<a href=" ./https://scholar.harvard.edu/aalaee"> Aghil Alaee Khangha </a> (Harvard CMSA member; faculty at Clark University)
 Michael Kosterlitz (Brown University)
 Xinsheng "Sean" Ling (Brown University)
 
