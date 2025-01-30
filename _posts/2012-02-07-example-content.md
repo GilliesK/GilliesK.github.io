@@ -13,7 +13,9 @@ I am interested in exploring advanced theoretical frameworks (e.g. in real analy
 
 Mentors:
 <a href=" ./https://scholar.harvard.edu/aalaee"> Aghil Alaee Khangha </a> (Harvard CMSA member; faculty at Clark University)
+
 Michael Kosterlitz (Brown University)
+
 Xinsheng "Sean" Ling (Brown University)
 
 
