@@ -13,11 +13,11 @@ I am interested in exploring advanced theoretical frameworks (e.g. in real analy
 
 Mentors:
 
-<a href=" https://scholar.harvard.edu/aalaee"> Aghil Alaee Khangha </a> (Harvard CMSA member; faculty at Clark University)
+<a href=" https://scholar.harvard.edu/aalaee"> Professor Aghil Alaee Khangha </a> (Harvard CMSA member; faculty at Clark University)
 
-<a href=" https://www.nobelprize.org/prizes/physics/2016/kosterlitz/facts/"> Michael Kosterlitz </a> (Brown University)
+<a href=" https://www.nobelprize.org/prizes/physics/2016/kosterlitz/facts/"> Professor vMichael Kosterlitz </a> (Brown University)
 
-<a href=" https://vivo.brown.edu/display/xling"> Xinsheng "Sean" Ling </a> (Brown University)
+<a href=" https://vivo.brown.edu/display/xling"> Professor Xinsheng "Sean" Ling </a> (Brown University)
 
 
 
