@@ -4,7 +4,7 @@ title: About Myself
 ---
 I am a physics Ph.D. student at Brown University. Before Brown, I graduated with a BA in physics from Clark University. 
 
-I am originally from Cote d'ivoire, and grew up in Pennsylvania.  
+I am originally from Cote d'ivoire and grew up in Pennsylvania.  
 
 ### What I study:
 My research focuses on advancing our understanding of spin glass theory (and generally disordered systems) through a comprehensive, multi-faceted approach. I employ numerical simulations, experimental methods, and analytical techniques to investigate unresolved questions in this field. 
