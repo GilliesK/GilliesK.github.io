@@ -16,7 +16,7 @@ A few notable people whom I had the pleasure spending a lot of time working with
 
 * <a href=" https://scholar.harvard.edu/aalaee"> Professor Aghil Alaee Khangha </a> (Harvard CMSA member; faculty at Clark University)
 
-* <a href=" https://www.nobelprize.org/prizes/physics/2016/kosterlitz/facts/"> Professor Michael Kosterlitz </a> and <a href=" https://vivo.brown.edu/display/xling"> Professor Xinsheng "Sean" Ling </a> (Brown University)
+* <a href=" https://vivo.brown.edu/display/xling"> Professor Xinsheng "Sean" Ling </a> and <a href=" https://www.nobelprize.org/prizes/physics/2016/kosterlitz/facts/"> Professor Michael Kosterlitz </a> (Brown University)
 
 
 
