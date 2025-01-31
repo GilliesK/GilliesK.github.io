@@ -7,9 +7,9 @@ I am a physics Ph.D. student at Brown University. Before Brown, I graduated with
 I am originally from Cote d'ivoire and grew up in Pennsylvania.  
 
 ### What I study:
-My research focuses on advancing our understanding of spin glass theory (and generally disordered systems) through a comprehensive, multi-faceted approach. I employ numerical simulations, experimental methods, and analytical techniques to investigate unresolved questions in this field. 
+My research focuses on advancing our understanding of spin glass theory (and generally disordered systems) through a comprehensive, multi-faceted approach. I employ numerical simulations, experimental methods, and analytical techniques to investigate unresolved physics questions. 
 
-I am interested in exploring advanced theoretical frameworks (e.g. in real analysis, probability) and their utility in understanding physical mechanisms, especially in areas such as random matrix theory and stochastic processes; additionally in machine learning applications, where investigating spin glass phenomena could inform the development of more robust and efficient neural network architectures.
+I am interested in exploring advanced theoretical frameworks (particularly in real analysis and probability) and their utility in understanding physical mechanisms, especially in areas such as random matrix theory and stochastic processes. Additionally, I am interested in machine learning applications, where investigating spin glass phenomena could inform the development of more robust and efficient neural network architectures.
 
 *Mentors*
 
