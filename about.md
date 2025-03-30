@@ -3,7 +3,6 @@ layout: page
 title: Research
 sidebar_link: true
 ---
-Work please
 ## Slides
 <a href="./RG_Review.pdf">Review of RG Theory</a>
 
