@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Research and Talks
 sidebar_link: true
 ---
 ## Slides
@@ -30,3 +30,6 @@ than 64%.
 Present). Researching a method to extend the positive mass theorem to an asymptotically hyperbolic Riemannian manifold
 with toroidal infinity.
 <a href="https://commons.clarku.edu/cgi/viewcontent.cgi?article=2795&context=asdff">Positive Mass Theorem in All Dimensions</a>. Undergraduate Student Academic Spree Day and Fall Fest. (2021)
+
+## Talks
+Low-energy excitation gap and phase transitions in one-dimensional long-range Ising model with random fields; APS March Meeting 2025
