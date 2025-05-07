@@ -26,8 +26,7 @@ My responsibility was to make algorithms that could produce picture generative c
 graph. Produced thousands of pictures representing variations of three types of crumples. Picture recognition accuracy higher
 than 64%.
 
-<b>Proving A Graphical Case of The Horowitz-Myers Conjecture</b>: Working under Prof. Aghil Alaee (Winter 2021-
-Present). Researching a method to extend the positive mass theorem to an asymptotically hyperbolic Riemannian manifold
+<b>Proving A Graphical Case of The Horowitz-Myers Conjecture</b>: Working under Prof. Aghil Alaee (Winter 2021-2023). Researched a method to extend the positive mass theorem to an asymptotically hyperbolic Riemannian manifold
 with toroidal infinity.
 <a href="https://commons.clarku.edu/cgi/viewcontent.cgi?article=2795&context=asdff">Positive Mass Theorem in All Dimensions</a>. Undergraduate Student Academic Spree Day and Fall Fest. (2021)
 
