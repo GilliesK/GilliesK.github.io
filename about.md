@@ -32,6 +32,6 @@ with toroidal infinity.
 <a href="https://commons.clarku.edu/cgi/viewcontent.cgi?article=2795&context=asdff">Positive Mass Theorem in All Dimensions</a>. Undergraduate Student Academic Spree Day and Fall Fest. (2021)
 
 ## Talks
-Low-energy excitation gap and phase transitions in one-dimensional long-range Ising model with random fields; APS March Meeting 2025
+"Low-energy excitation gap and phase transitions in one-dimensional long-range Ising model with random fields"; APS March Meeting 2025
 
-Guest Speaker - ”Energy Functional of Lipid Bilayers” Harvard University; 89th New England Complex Fluids Meeting
+”Energy Functional of Lipid Bilayers” Harvard University; 89th New England Complex Fluids Meeting
