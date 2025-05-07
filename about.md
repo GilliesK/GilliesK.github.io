@@ -33,3 +33,5 @@ with toroidal infinity.
 
 ## Talks
 Low-energy excitation gap and phase transitions in one-dimensional long-range Ising model with random fields; APS March Meeting 2025
+
+Guest Speaker - ”Energy Functional of Lipid Bilayers” Harvard University; 89th New England Complex Fluids Meeting
