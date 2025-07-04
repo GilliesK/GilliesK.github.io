@@ -12,7 +12,7 @@ random fields</a>
 ## Monographs
 <a href="./trial_project.pdf">Positive Mass Theorem: Undergraduate Friendly Monograph</a> 
 
-<a href="./abdulaistatfinal .pdf">Positive Mass Theorem: Undergraduate Friendly Monograph</a> 
+<a href="./abdulaistatfinal .pdf">2DXY RG Flows for the Intrepid Student</a> 
 
 ## Undergrad Research
 
