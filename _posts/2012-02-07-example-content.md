@@ -7,11 +7,8 @@ I am a physics Ph.D. student at Brown University. Before Brown, I graduated with
 I am originally from Cote d'ivoire and grew up in Pennsylvania.  
 
 ### What I study:
-I am broadly interested in how disorder, fluctuations, and long-range interactions shape the emergence of order in complex systems.
-I approach these problems through a blend of statistical mechanics, stochastic modeling, and high-performance computation, with particular focus on spin-glass physics, random-field models, and renormalization-group theory.
-
-I am drawn to the connections between probability theory, real analysis, and physics, especially in understanding how collective behavior arises from randomness.
-Beyond traditional condensed-matter contexts, I am interested in how ideas from spin-glass theory, random matrices, and stochastic processes can inform machine learning, optimization, and quantitative modeling—for instance, how concepts like metastability, energy landscapes, and replica symmetry breaking translate to neural networks or market dynamics.
+I study how randomness and long-range interactions govern the emergence of order in complex systems, using statistical mechanics, stochastic modeling, and large-scale computation. My work centers on spin glasses, random-field models, and renormalization-group theory—systems where disorder competes with collective behavior to produce unexpected phases.
+I'm motivated by the mathematical structures underlying phase transitions: how probability theory and real analysis describe the spontaneous organization that arises from noise. I'm also interested in translating these ideas beyond condensed matter—how concepts like energy landscapes, metastability, and replica symmetry breaking from spin-glass theory connect to neural networks, optimization algorithms, and stochastic processes in quantitative fields.
 
 *Mentors*
 
@@ -28,4 +25,5 @@ I would also like to thank those who are not explicitedly mentioned.
 
 ### My Resume:
 You can download a copy of my <a href="./Resume_2024.pdf"> resume</a> here.
+
 
