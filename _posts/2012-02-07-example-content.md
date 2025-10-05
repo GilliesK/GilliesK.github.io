@@ -8,7 +8,7 @@ I am originally from Cote d'ivoire and grew up in Pennsylvania.
 
 ### What I study:
 I study how randomness and long-range interactions govern the emergence of order in complex systems, using statistical mechanics, stochastic modeling, and numerical computation. My work focuses on spin glasses, random field models, and renormalization group theory: systems where disorder and collective behavior compete to produce unexpected phases.
-I'm drawn to the mathematical structures underlying these phenomena, particularly how probability and analysis describe spontaneous organization arising from noise. Beyond condensed matter, Beyond condensed matter, I'm interested in applying these ideas to optimization problems, neural network theory, and quantitative modeling
+I'm drawn to the mathematical structures underlying these phenomena, particularly how probability and analysis describe spontaneous organization arising from noise. Beyond condensed matter, I'm interested in applying these ideas to optimization problems, neural network theory, and quantitative modeling
 *Mentors*
 
 A few notable people whom I had the pleasure spending a lot of time working with. 
@@ -24,6 +24,7 @@ I would also like to thank those who are not explicitedly mentioned.
 
 ### My Resume:
 You can download a copy of my <a href="./Resume_2024.pdf"> resume</a> here.
+
 
 
 
