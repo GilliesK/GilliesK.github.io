@@ -2,7 +2,7 @@
 layout: post
 title: About Myself
 ---
-I am a physics Ph.D. student at Brown University. Before Brown, I graduated with a BA in physics from Clark University. 
+I am a physics Ph.D. candidate at Brown University. Before Brown, I graduated with a BA in physics from Clark University. 
 
 I am originally from Cote d'ivoire and grew up in Pennsylvania.  
 
@@ -25,6 +25,7 @@ I would also like to thank those who are not explicitedly mentioned.
 
 ### My Resume:
 You can download a copy of my <a href="./Resume_2024.pdf"> resume</a> here.
+
 
 
 
