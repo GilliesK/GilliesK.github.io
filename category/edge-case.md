@@ -3,7 +3,8 @@ layout: category
 title: Teaching
 ---
 I was a problem-workshop TA and/or lab instructor for the following classes:
+* **High school level: Machine learning for Physics and Astronomy** 
 * **Undergraduate level: Newtonian Physics**
 * **Undergraduate level: Electricity and Magnetism**
 * **Graduate level: Experimental Physics**
-* **Machine learning for Physics and Astronomy** 
+
